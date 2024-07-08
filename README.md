@@ -66,7 +66,7 @@ These components were built with a **free Material Design UI Kit for the latest 
 
 <h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/navigation/navbar/">Navbar</a></h5>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/navigation/tabs/">Tabs</a></h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/navigation/pills/">Pills</a></h5>
 
 <h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/navigation/scrollspy/">Scrollspy</a></h5>
 
